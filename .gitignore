@@ -1,0 +1,15 @@
+# Generated files (maven).
+target/
+.checkstyle
+
+# Eclipse setup.
+.classpath
+.project
+.settings/
+
+# Intellij setup.
+.idea/
+*.iml
+
+# Project specific ignores.
+Builds/
